@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Sanaz
-- 📖 My background is in pharmacy and I’m interested in the application of deep learning in molecular generation, structure based drug design (SBDD) and protein structure prediction.
-- 🌱 I’m currently doing a PhD @ Oxford Uni on diffusion models for SBDD.
-- 💞️ I’m always looking to learn more so if you have any projects you think i may interested in, let me know!
+## 👋 Hi, I’m Sanaz, welcome to my GitHub
+
+- 📖 On the weekends, I'm a pharmacist and weekdays i'm a PhD student at Oxford Protein Informatics Group!
+- 🌱 I’m interested in the application of deep learning for de novo drug design. Specifically, structure based drug design.
+- 💞️ I’m always looking to learn more so if you have any projects you think I might be interested in, let me know!
 - 📫 Find me on LinkedIn _www.linkedin.com/in/sanaz-k-1456609b_
   
 
